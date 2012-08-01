@@ -34,4 +34,4 @@ append_plist_var PATH "/usr/local/git/bin" "/usr/bin:/bin:/usr/sbin:/sbin:/usr/l
 
 pushd "$HOME"
 
-popd
+popdo79879876
